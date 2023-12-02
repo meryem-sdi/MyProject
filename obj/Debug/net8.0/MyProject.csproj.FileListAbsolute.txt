@@ -1,0 +1,14 @@
+C:\Users\meria\Desktop\MyProject\bin\Debug\net8.0\MyProject.exe
+C:\Users\meria\Desktop\MyProject\bin\Debug\net8.0\MyProject.deps.json
+C:\Users\meria\Desktop\MyProject\bin\Debug\net8.0\MyProject.runtimeconfig.json
+C:\Users\meria\Desktop\MyProject\bin\Debug\net8.0\MyProject.dll
+C:\Users\meria\Desktop\MyProject\bin\Debug\net8.0\MyProject.pdb
+C:\Users\meria\Desktop\MyProject\obj\Debug\net8.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meria\Desktop\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\meria\Desktop\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfo.cs
+C:\Users\meria\Desktop\MyProject\obj\Debug\net8.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\meria\Desktop\MyProject\obj\Debug\net8.0\MyProject.dll
+C:\Users\meria\Desktop\MyProject\obj\Debug\net8.0\refint\MyProject.dll
+C:\Users\meria\Desktop\MyProject\obj\Debug\net8.0\MyProject.pdb
+C:\Users\meria\Desktop\MyProject\obj\Debug\net8.0\MyProject.genruntimeconfig.cache
+C:\Users\meria\Desktop\MyProject\obj\Debug\net8.0\ref\MyProject.dll
